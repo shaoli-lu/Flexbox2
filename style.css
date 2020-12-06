@@ -16,7 +16,7 @@ html {
 .wrapper {
     max-width: 1000px;
     margin: 0 auto;
-    padding: 50px;
+    padding: 10px;
 }
 
 img {
@@ -26,7 +26,7 @@ img {
 a {
     color: white;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 12px;
     background: rgba(0, 0, 0, 0.2);
     padding: 20px 5px;
 }
@@ -49,6 +49,7 @@ a:hover {
     /* border: 1px solid red; */
     text-align: center;
     display: flex;
+    
 }
 
 .slider-nav .arrow {
@@ -62,6 +63,7 @@ a:hover {
   flex-basis: 100%;
   display: flex;
   align-items: center;
+  
 }
 
 .slider-nav span {
